@@ -1,3 +1,9 @@
+# I could not use a reproduction template as I was getting a git network activity error
+
+```
+√ Could not download "reproduction-template" because of a connectivity issue between your machine and GitHub.
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
